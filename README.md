@@ -16,7 +16,6 @@ DELETE   /api/products/:id
 ```
 # Install dependencies
 npm install
-yarn install
 
 # Run in develpment
 npm run dev
